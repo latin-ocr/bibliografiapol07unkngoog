@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliografiapol07unkngoog_0007.png"; bbox 0 0 3575 5850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 457 1816 1272 1979">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 457 1816 1272 1979">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 1816 1272 1979; baseline -0.007 -28"><span class='ocrx_word' id='word_1_1' title='bbox 457 1816 734 1979; x_wconf 67' lang='lat' dir='ltr'>CZES&#39;C</span> <span class='ocrx_word' id='word_1_2' title='bbox 767 1841 883 1948; x_wconf 81' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_3' title='bbox 923 1839 1117 1945; x_wconf 87' lang='lat' dir='ltr'><strong>TOM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1159 1839 1272 1945; x_wconf 73' lang='lat' dir='ltr'><strong>lv.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 680 2144 1046 2155">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 680 2144 1046 2155">
+     <span class='ocr_line' id='line_1_2' title="bbox 680 2144 1046 2155; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 680 2144 1046 2155; x_wconf 78' lang='lat'><strong>——————-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 581 2393 1148 2494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 581 2393 1148 2494">
+     <span class='ocr_line' id='line_1_3' title="bbox 581 2393 1148 2494; baseline -0.007 -16"><span class='ocrx_word' id='word_1_6' title='bbox 581 2395 785 2494; x_wconf 71' lang='lat' dir='ltr'>(ogolnego</span> <span class='ocrx_word' id='word_1_7' title='bbox 812 2397 946 2478; x_wconf 75' lang='lat' dir='ltr'>zhloru</span> <span class='ocrx_word' id='word_1_8' title='bbox 978 2397 1051 2476; x_wconf 83' lang='lat' dir='ltr'><strong>tom</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 2393 1148 2492; x_wconf 68' lang='lat' dir='ltr'><strong>XV).</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 763 4766 977 4854">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 763 4766 977 4854">
+     <span class='ocr_line' id='line_1_4' title="bbox 763 4766 977 4854; baseline 0.005 -2"><span class='ocrx_word' id='word_1_10' title='bbox 763 4766 977 4854; x_wconf 80' lang='lat' dir='ltr'><strong>KRAKOW.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1792 5850">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1792 5850">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1792 5850; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1792 5850; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
